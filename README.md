@@ -13,9 +13,9 @@
 <a name="application"></a>
 ## Link to application
 
-* Click here: XXXXXXXXXXXXXXX
+* Click here: https://stefanieklogan.github.io/Homework3PasswordGen/
 
-![Homepage image](https:XXXXXXXXXXXXXXXXXXXXX
+![Homepage image](https://github.com/stefanieklogan/Homework3PasswordGen/blob/main/images/password_homepage.JPG)
 
 <a name="overview"></a>
 ## Project overview
@@ -27,9 +27,9 @@
 <a name="psuedo"></a>
 ## Psuedo code
 
-* Psuedo coding is not necessarily unfamiliar behavior for me. I make a list before going to the grocery store. I write down household projects that need to be tackled in the coming month. Psuedo coding is similar and creates a roadmap before you even put the key in the ignition. It helps keep focus and hopefully makes your fingers key the code a bit quicker because of this prework.
+* Psuedo coding is not necessarily unfamiliar behavior for me. I make a list before going to the grocery store. I write down household projects that need to be tackled in the coming month. Psuedo coding is similar and creates a road map before you even put the key in the ignition. It helps keep focus and hopefully makes your fingers key the code a bit quicker because of this prework.
 
-![Psuedo image](https:xxxxxxxxxx
+![Psuedo image](https://github.com/stefanieklogan/Homework3PasswordGen/blob/main/images/psuedo.JPG)
 
 <a name="coding"></a>
 ## Building the Code & Java
