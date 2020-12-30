@@ -4,8 +4,8 @@
 1. [ Application. ](#application)
 2. [ Project Overview. ](#overview)
 3. [ Psuedo Code. ](#psuedo)
-4. [ Portfolio. ](#portfolio)
-5. [ Contact. ](#contact)
+4. [ Building the Code & Java. ](#code)
+5. [ Proud. ](#proud)
 6. [ Additional learnings. ](#learnings)
 7. [ The other stuff: License & Badges. ](#streetcred)
 
@@ -20,7 +20,7 @@
 <a name="overview"></a>
 ## Project overview
 
-* This assignment was the most challenging to-date. I really spent time reveiwing all week 3 activities and teaching myself again the concepts and code. I will admit when I started psuedo coding the password generator, I had several "how will I do that step" moments circling in my mind. I gave myself grace because knowing the code is needed is the first step before beginning the research to write and implement new code.
+* This assignment was the most challenging to-date. I really spent time reveiwing all week 3 activities and teaching myself again the concepts and code. I will admit when I started psuedo coding the password generator, I had several "how will I do that step" moments circling in my mind. I gave myself grace because *knowing what steps are needed* is first & there's no research & writing code without it.
 
 * I appreciate the real-world application of this homework. Websites more often than not require a profile & credentials. Credential stores are important for validation purposes and allowing users into sites they've been to before.
 
@@ -38,14 +38,15 @@
 
 ![Psuedo image](https:xxxxxxxxxx
 
-<a name="portfolio"></a>
-## Portfolio
+<a name="coding"></a>
+## Building the Code & Java
 
-* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+* My name is Stefanie and I admit that I have a problem. I admit that I tend to write more code than I should before I validate. Maybe it's 2-3 lines, but it's 2-3 lines too many. I am improving my patience and trying to validate code one line at a time so I know what I just coded is the issue. It doesn't take long right now for me to run into errors. Ah the learning!
 
+* If you're reading this, I don't drink coffee. I do, however, have java running thru my veins at this point knowing the assignment has been submitted. Have I already expressed how much I learned in this assignment?
 
-<a name="contact"></a>
-## Contact
+<a name="proud"></a>
+## What I'm proud of most
 
 * xxxxxxxxxxxxxx
 

@@ -83,9 +83,12 @@ header {
   font-size: 22px;
   line-height: 22px;
   margin: 16px 16px 16px 20px;
-  padding: 14px 34px;
   text-align: center;
   cursor: pointer;
+}
+
+.buttontext {
+  padding-top:15px;
 }
 
 button[disabled] {
