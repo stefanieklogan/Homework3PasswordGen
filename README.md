@@ -20,17 +20,14 @@
 <a name="overview"></a>
 ## Project overview
 
-* This assignment was the most challenging to-date. I really spent time reveiwing all week 3 activities and teaching myself again the concepts and code. I will admit when I started psuedo coding the password generator, I had several "how will I do that step" moments circling in my mind. I gave myself grace because *knowing what steps are needed* is first & there's no research & writing code without it.
+* This assignment was the most challenging to-date. I really spent time reviewing all week 3 activities and teaching myself again the concepts and code. I will admit when I started psuedo coding the password generator, I had several "how will I do that step" moments circling in my mind. I gave myself grace because *knowing what steps are needed* is first & there's no research & writing code without it.
 
 * I appreciate the real-world application of this homework. Websites more often than not require a profile & credentials. Credential stores are important for validation purposes and allowing users into sites they've been to before.
 
 <a name="psuedo"></a>
 ## Psuedo code
 
-* Psuedo coding is not necessarily unfamiliar behavior for me. I make a list before going to the grocery store. I write down household projects that need to be tackled in the coming month. Psuedo coding is similar and creates a roadmap before you even put the key in the iginition. It helps keep focus and hopefully makes your fingers key the code a bit quicker because of this prework.
-    * xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    * xxxxxxxxxxxxxxxxxx
-
+* Psuedo coding is not necessarily unfamiliar behavior for me. I make a list before going to the grocery store. I write down household projects that need to be tackled in the coming month. Psuedo coding is similar and creates a roadmap before you even put the key in the ignition. It helps keep focus and hopefully makes your fingers key the code a bit quicker because of this prework.
 
 ![Psuedo image](https:xxxxxxxxxx
 
@@ -46,10 +43,14 @@
 
 * I've always loved concatenate in Excel. Sadly, it 'wows' my coworkers when I can provide a list of 1k people with "last name, first name" and it took 30 seconds. Why am I sharing this? I love that concatenate array was one of the big "ah ha" moments when it came to solving user-driven booleans into the password creation.
 
+* I'm proud of the work I put in prior to this assignment, meeting with a tutor as well as finishing it with a real understanding of what the document does. Coding is a rollercoaster with a lot of peaks and valleys. The peak is my favorite part. :)
+
 <a name="learnings"></a>
 ## Additional learnings
 
 * I'm proud of what I've accomplished. I found the rock-paper-scissors exercise in class to be extremely difficult and this assignment doesn't back down either.
+
+* I made a "copy" button! It's a good, good feeling when advice on Google actually makes sense and works. Implementation was easy.
 
 
 <a name="streetcred"></a>

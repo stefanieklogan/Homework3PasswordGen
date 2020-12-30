@@ -82,6 +82,7 @@ header {
   display: inline-block;
   font-size: 22px;
   line-height: 22px;
+  padding: 16px 16px 16px 20px;
   margin: 16px 16px 16px 20px;
   text-align: center;
   cursor: pointer;
@@ -107,10 +108,10 @@ button[disabled] {
   border: none;
   display: block;
   width: 100%;
-  padding-top: 15px;
+  padding-top: 40px;
   padding-left: 15px;
   padding-right: 15px;
-  padding-bottom: 85px;
+  padding-bottom: 15px;
   font-size: 1.2rem;
   text-align: center;
   margin-top: 10px;
@@ -137,4 +138,44 @@ button[disabled] {
   .btn {
     font-size: 0.8rem;
   }
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip {
+  visibility: hidden;
+  width: 140px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -75px;
+  margin-bottom: 25px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}gUwjjC)Q_1R}
+
+.tooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  margin-bottom: 25px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover {
+  visibility: visible;
+  opacity: 1;
 }
