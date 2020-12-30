@@ -24,14 +24,10 @@
 
 * I appreciate the real-world application of this homework. Websites more often than not require a profile & credentials. Credential stores are important for validation purposes and allowing users into sites they've been to before.
 
-* Even though I've done two assignments focused on html, the exercise putting together the css classes into the html file felt a little like dusting of my memory. I need to continue to code daily to keep things as fresh as possible, turning back to old assignments and looking ahead as well.
-
 <a name="psuedo"></a>
 ## Psuedo code
 
-* Psuedo coding is not necessarily unfamiliar behavior for me. I make a list before going to the grocery store. I write down household projects that need to be tackled in the coming month. 
-
-* Psuedo coding is similar and creates a roadmap before you even put the key in the iginition. It helps keep focus and hopefully makes your fingers key the code a bit quicker because of this prework.
+* Psuedo coding is not necessarily unfamiliar behavior for me. I make a list before going to the grocery store. I write down household projects that need to be tackled in the coming month. Psuedo coding is similar and creates a roadmap before you even put the key in the iginition. It helps keep focus and hopefully makes your fingers key the code a bit quicker because of this prework.
     * xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     * xxxxxxxxxxxxxxxxxx
 
@@ -43,12 +39,12 @@
 
 * My name is Stefanie and I admit that I have a problem. I admit that I tend to write more code than I should before I validate. Maybe it's 2-3 lines, but it's 2-3 lines too many. I am improving my patience and trying to validate code one line at a time so I know what I just coded is the issue. It doesn't take long right now for me to run into errors. Ah the learning!
 
-* If you're reading this, I don't drink coffee. I do, however, have java running thru my veins at this point knowing the assignment has been submitted. Have I already expressed how much I learned in this assignment?
+* If you're reading this, I don't drink coffee. I do, however, have java running thru my veins at this point knowing I survived teh assignment. Have I already expressed how much I learned in this assignment?
 
 <a name="proud"></a>
 ## What I'm proud of most
 
-* xxxxxxxxxxxxxx
+* I've always loved concatenate in Excel. Sadly, it 'wows' my coworkers when I can provide a list of 1k people with "last name, first name" and it took 30 seconds. Why am I sharing this? I love that concatenate array was one of the big "ah ha" moments when it came to solving user-driven booleans into the password creation.
 
 <a name="learnings"></a>
 ## Additional learnings
