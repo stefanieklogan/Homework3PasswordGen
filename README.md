@@ -34,14 +34,14 @@
 <a name="coding"></a>
 ## Building the Code & Java
 
-* My name is Stefanie and I admit that I have a problem. I admit that I tend to write more code than I should before I validate. Maybe it's 2-3 lines, but it's 2-3 lines too many. I am improving my patience and trying to validate code one line at a time so I know what I just coded is the issue. It doesn't take long right now for me to run into errors. Ah the learning!
+* My name is Stefanie and I admit that I have a problem. I write more code than I should before I validate. Maybe it's 2-3 lines, but it's 2-3 lines too many. I am improving my patience and trying to validate code one line at a time so I know what I just coded is the issue. It doesn't take long right now for me to run into errors. Ah the learning!
 
-* If you're reading this, I don't drink coffee. I do, however, have java running thru my veins at this point knowing I survived teh assignment. Have I already expressed how much I learned in this assignment?
+* If you're reading this, I don't drink coffee. I do, however, have java running thru my veins at this point knowing I survived the assignment. Have I already expressed how much I learned in this assignment?
 
 <a name="proud"></a>
 ## What I'm proud of most
 
-* I've always loved concatenate in Excel. Sadly, it 'wows' my coworkers when I can provide a list of 1k people with "last name, first name" and it took 30 seconds. Why am I sharing this? I love that concatenate array was one of the big "ah ha" moments when it came to solving user-driven booleans into the password creation.
+* I've always loved concatenate in Excel. It 'wows' my coworkers when I can provide a list of 1k people with "last name, first name" and it took 30 seconds. Why am I sharing this? I love that concatenate array was one of the big "ah ha" moments when it came to solving user-driven booleans into the password creation.
 
 * I'm proud of the work I put in prior to this assignment, meeting with a tutor as well as finishing it with a real understanding of what the document does. Coding is a rollercoaster with a lot of peaks and valleys. The peak is my favorite part. :)
 
