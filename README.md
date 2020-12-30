@@ -29,7 +29,7 @@
 
 * Psuedo coding is not necessarily unfamiliar behavior for me. I make a list before going to the grocery store. I write down household projects that need to be tackled in the coming month. Psuedo coding is similar and creates a road map before you even put the key in the ignition. It helps keep focus and hopefully makes your fingers key the code a bit quicker because of this prework.
 
-![Psuedo image](https://github.com/stefanieklogan/Homework3PasswordGen/blob/main/images/psuedo.JPG)
+![Psuedo image](https://github.com/stefanieklogan/Homework3PasswordGen/blob/main/images/psuedo.jpg)
 
 <a name="coding"></a>
 ## Building the Code & Java
