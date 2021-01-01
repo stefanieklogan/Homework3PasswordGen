@@ -4,7 +4,7 @@
 1. [ Application. ](#application)
 2. [ Project Overview. ](#overview)
 3. [ Psuedo Code. ](#psuedo)
-4. [ Building the Code & Java. ](#code)
+4. [ Building the code & Java. ](#code)
 5. [ Proud. ](#proud)
 6. [ Additional learnings. ](#learnings)
 7. [ The other stuff: License & Badges. ](#streetcred)
@@ -32,7 +32,7 @@
 ![Psuedo image](https://github.com/stefanieklogan/Homework3PasswordGen/blob/main/images/psuedo.jpg)
 
 <a name="code"></a>
-## Building the Code & Java
+## Building the code & Java
 
 * My name is Stefanie and I admit that I have a problem. I write more code than I should before I validate. Maybe it's 2-3 lines, but it's 2-3 lines too many. I am improving my patience and trying to validate code one line at a time so I know what I just coded is the issue. It doesn't take long right now for me to run into errors. Ah the learning!
 
@@ -43,14 +43,14 @@
 
 * I've always loved concatenate in Excel. It 'wows' my coworkers when I can provide a list of 1k people with "last name, first name" when I know it took me 30 seconds to formulate. Why am I sharing this? I love that concatenate array was one of the big "ah ha" moments when it came to solving user-driven booleans into the password creation.
 
-* When I met with my tutor, I came prepared with a few questions regarding code I had yet to complete. One observation they made was for me to worry about validations & user behavior last & focus on a working site first. I found the comment fascinating. As a technical project manager, I'm constantly doubting the user and always thinking "what errors we anticipate" or "what's the error messaging look like?" I think it's a good tip I'll have to remember as I code more application-like sites.
+* I joined a class study group and gave a peer an enhancement they had not thought of. Their site went above & beyond allowing their user to arrow up/down for their desired password length. I asked if they had 1) listed a min/max and 2) coded validation if the entry was NaN or outside of requirements. They were grateful for the observation & ready to add on to their project.
 
 <a name="learnings"></a>
 ## Additional learnings
 
 * I made a "copy" button! It's a good, good feeling when advice on Google actually makes sense and works. Implementation was easy.
 
-* I joined a class study group and gave a peer an enhancement they had not thought of. Their site went above & beyond allowing their user to arrow up/down for their desired password length. I asked if they had 1) listed a min/max and 2) coded validation if the entry was NaN or outside of requirements. They were grateful for the observation & ready to add on to their project.
+* When I met with my tutor, I came prepared with a few questions regarding code I had yet to complete. One observation they made was for me to worry about validations & user behavior last & focus on a working site first. I found the comment fascinating. As a technical project manager, I'm constantly doubting the user and always thinking "what errors we anticipate" or "what's the error messaging look like?" I think it's a good tip I'll have to remember as I code more application-like sites.
 
 
 <a name="streetcred"></a>
