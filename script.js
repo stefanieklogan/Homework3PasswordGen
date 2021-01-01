@@ -42,7 +42,7 @@ function generatePassword() {
 
 //Validates password length
   if (userLengthNumber < 8 || userLengthNumber > 128) {
-    alert("Your password must be between 8 - 128 characters. \nClick OK to start over.");
+    alert("Invalid entry. Password length must be numeric value of 8 - 128. \nClick OK to start over.");
     window.location.reload();
   }
 
@@ -54,13 +54,13 @@ else {
   
 //Validates password length is not null
   if (isNaN(userLengthNumber) === true) {
-  alert("Invalid entry. Password length must be value between 8 - 128. \nClick OK to start over.");
+  alert("Invalid entry. Password length must be numeric value of 8 - 128. \nClick OK to start over.");
     window.location.reload();
 }  
 
 //Validates boolean is not false for all variables 
 if (upperCaseConfirm === false && lowerCaseConfirm === false && numbersConfirm === false && symbolsConfirm === false) {
-alert("You did not make a selection. \nYour password must consist of at least one type of character. \nClick OK for selection process again.")
+alert("You did not make a selection. \nYour password must consist of at least one type of character. \nClick OK to start over.")
   window.location.reload();
 }
 
